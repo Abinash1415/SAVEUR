@@ -32,22 +32,22 @@ Avant de commencer, assurez-vous d'exécuter le fichier `schema.sql` pour créer
 ```plaintext
 SAVEUR/
 │
-├── public/               # Point d'entrée web
-│   ├── index.php         # Page d'accueil
-│   ├── log.php           # Connexion
-│   ├── register.php      # Inscription
-│   ├── reservation.php   # Formulaire réservation
-│   ├── auth.php          # Logique login/logout/register
+├── public/      
+│   ├── index.php    
+│   ├── log.php      
+│   ├── register.php  
+│   ├── reservation.php 
+│   ├── auth.php     
 │   ├── style/
-│   │   └── styles.css    # Fichiers CSS
+│   │   └── styles.css
 │   ├── script/
-│   │   └── main.js       # Fichiers JS
-├── src/                  # Code métier
+│   │   └── main.js      
+├── src/   
 │   ├── Database.php
 │   ├── UserDAO.php
 │   ├── ReservationDAO.php
 │
-├── config/               # Scripts de configuration
+├── config/
 │   ├── schema.sql
 │   ├── test_db.php
 │
