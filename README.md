@@ -1,7 +1,5 @@
 ﻿# SAVEUR
 
-# NT1_RESTAURANT_ABINASH_ROY
-
 ## Présentation
 
 Site vitrine de restaurant avec système de réservation simple, développé en **HTML / CSS / JS / PHP** et **MySQL**.  
