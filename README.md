@@ -29,7 +29,7 @@ Avant de commencer, assurez-vous d'exécuter le fichier `schema.sql` pour créer
 - **Serveur local :**
   - WAMP, XAMPP ou tout environnement Apache + MySQL + PHP
 
-## 📂 Arborescence du projet
+## Arborescence du projet
 
 ```plaintext
 NT1_RESTAURANT_ABINASH_ROY/
