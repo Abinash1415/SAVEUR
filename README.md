@@ -6,6 +6,10 @@
 
 Site vitrine de restaurant avec système de réservation simple, développé en **HTML / CSS / JS / PHP** et **MySQL**.  
 
+## Pré-requis
+
+Avant de commencer, assurez-vous d'exécuter le fichier `/schema.sql/` pour créer la base de données `/saveur_restaurant/` avant de lancer le site web. Sinon, les fonctionalités présent sur le site ne fonctionnerons pas correctement.
+
 ## Technologies utilisées
 
 - **Frontend :**
